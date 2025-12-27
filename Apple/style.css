@@ -1,0 +1,10 @@
+ #logo-div
+  {
+      width: 100%;
+      min-height: 50px;
+      background-color: #0A0394;
+      padding-left: 5%;
+      line-height: 50px;
+      margin-bottom: 10px;
+      text-decoration-color: white;
+  }
